@@ -1,0 +1,38 @@
+.edit-employee-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .edit-employee-container h2 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  .edit-employee-container label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .edit-employee-container input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .edit-employee-container button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .edit-employee-container button:hover {
+    background-color: #0056b3;
+  }
+  

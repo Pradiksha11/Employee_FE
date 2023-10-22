@@ -1,0 +1,39 @@
+.employee-details-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .employee-details-container h2 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  .employee-details-container p {
+    margin: 5px 0;
+  }
+  
+  .employee-details-container button {
+    background-color: #c15050;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 10px 10px 0;
+    cursor: pointer;
+  }
+  
+  .employee-details-container button:hover {
+    background-color: #a63030;
+  }
+  
+  .employee-details-container a {
+    display: block;
+    text-decoration: none;
+    color: #007bff;
+    margin: 10px;
+  }
+  
+  .employee-details-container a:hover {
+    text-decoration: underline;
+  }
+  
